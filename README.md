@@ -16,19 +16,19 @@ This project is a deep fake audio detection application developed using Tortoise
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/Siva20021/TortoiseTTS.git
    ```
 
 2. Install dependencies:
 
    ```
-   npm install
+   pip install requirements.txt
    ```
 
 3. Run the application:
 
    ```
-   npm start
+   streamlit run app.py
    ```
 
 ## Usage
